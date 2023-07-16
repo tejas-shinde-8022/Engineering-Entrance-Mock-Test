@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1686189764 source:h:\prathamesh\mini-project\mock-test\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<vector>
+
+1686188920 source:d:\ganesh\mini\mock-test\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<vector>
+
